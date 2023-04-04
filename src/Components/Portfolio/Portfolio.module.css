@@ -1,0 +1,42 @@
+.portfolioItemCaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.2s ease-in-out;
+    opacity: 0;
+    background-color: rgba(26, 188, 156, 0.9);
+}
+
+.portfolioItemCaption i {
+    font-size: 4.5rem;
+}
+
+.portfolioItemCaption:hover {
+    opacity: 1;
+}
+
+.bgBox {
+    background-color: #000000b3;
+    z-index: 9999;
+    overflow-y: scroll;
+}
+
+.boxBody {
+    padding: 4rem 1rem;
+}
+
+.closeIcon {
+    right: 1.5rem;
+    top: 1rem;
+    line-height: 3rem;
+    color: var(--main-color);
+}
+
+.closeIcon:hover{
+    color: #1bd3ae
+}
+@media only screen and (max-width: 600px){
+    .closeIcon{
+        font-size: xx-large !important;
+    }
+}

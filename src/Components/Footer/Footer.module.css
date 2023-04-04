@@ -1,0 +1,33 @@
+.fbg{
+    background-color: #2c3e50;
+}
+
+.footer{
+    padding-block: 5rem;
+}
+
+.h4Style{
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.pStyle{
+    font-weight: 400 !important;
+}
+
+.footer ul li i{
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    transition: all 0.3s;
+}
+
+.footer ul li:hover i{
+    color: black;
+    background-color: #fff;
+    border-color: transparent !important;
+}
+
+.copyright{
+    background-color: #1a252f;
+}
