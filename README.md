@@ -1,6 +1,11 @@
 # simple-react-project
 use to install the node modules : npm i 
 
+
+live demo
+https://menna23shehata.github.io/simple-react-project/
+
+
 The laptop screen design
 https://user-images.githubusercontent.com/126798385/229674616-ea9bf5b6-dfc2-40cf-9fc9-c87235ffaada.mp4
 
